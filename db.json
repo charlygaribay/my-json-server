@@ -230,6 +230,94 @@
          "pages":194,
          "title":"Great Expectations",
          "year":1861
-      }
+      },
+      {  
+         "id": 22,
+         "author":"Denis Diderot",
+         "country":"France",
+         "imageLink":"images/jacques-the-fatalist.jpg",
+         "language":"French",
+         "link":"https://en.wikipedia.org/wiki/Jacques_the_Fatalist\n",
+         "pages":596,
+         "title":"Jacques the Fatalist",
+         "year":1796
+      },
+      {  
+         "id": 23,
+         "author":"Alfred D\u00f6blin",
+         "country":"Germany",
+         "imageLink":"images/berlin-alexanderplatz.jpg",
+         "language":"German",
+         "link":"https://en.wikipedia.org/wiki/Berlin_Alexanderplatz\n",
+         "pages":600,
+         "title":"Berlin Alexanderplatz",
+         "year":1929
+      },
+      {  
+         "id": 24,
+         "author":"Fyodor Dostoevsky",
+         "country":"Russia",
+         "imageLink":"images/crime-and-punishment.jpg",
+         "language":"Russian",
+         "link":"https://en.wikipedia.org/wiki/Crime_and_Punishment\n",
+         "pages":551,
+         "title":"Crime and Punishment",
+         "year":1866
+      },
+      {  
+         "id": 25,
+         "author":"Fyodor Dostoevsky",
+         "country":"Russia",
+         "imageLink":"images/the-idiot.jpg",
+         "language":"Russian",
+         "link":"https://en.wikipedia.org/wiki/The_Idiot\n",
+         "pages":656,
+         "title":"The Idiot",
+         "year":1869
+      },
+      {  
+         "id": 26,
+         "author":"Fyodor Dostoevsky",
+         "country":"Russia",
+         "imageLink":"images/the-possessed.jpg",
+         "language":"Russian",
+         "link":"https://en.wikipedia.org/wiki/Demons_(Dostoyevsky_novel)\n",
+         "pages":768,
+         "title":"The Possessed",
+         "year":1872
+      },
+      {  
+         "id": 27,
+         "author":"Fyodor Dostoevsky",
+         "country":"Russia",
+         "imageLink":"images/the-brothers-karamazov.jpg",
+         "language":"Russian",
+         "link":"https://en.wikipedia.org/wiki/The_Brothers_Karamazov\n",
+         "pages":824,
+         "title":"The Brothers Karamazov",
+         "year":1880
+      },
+      {  
+         "id": 28,
+         "author":"George Eliot",
+         "country":"United Kingdom",
+         "imageLink":"images/middlemarch.jpg",
+         "language":"English",
+         "link":"https://en.wikipedia.org/wiki/Middlemarch\n",
+         "pages":800,
+         "title":"Middlemarch",
+         "year":1871
+      },
+      {  
+         "id": 29,
+         "author":"Ralph Ellison",
+         "country":"United States",
+         "imageLink":"images/invisible-man.jpg",
+         "language":"English",
+         "link":"https://en.wikipedia.org/wiki/Invisible_Man\n",
+         "pages":581,
+         "title":"Invisible Man",
+         "year":1952
+      },
    ]
 }
