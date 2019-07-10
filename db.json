@@ -351,17 +351,6 @@
          "pages":326,
          "title":"The Sound and the Fury",
          "year":1929
-      },
-      {  
-         "id": 33,
-         "author":"Gustave Flaubert",
-         "country":"France",
-         "imageLink":"images/madame-bovary.jpg",
-         "language":"French",
-         "link":"https://en.wikipedia.org/wiki/Madame_Bovary\n",
-         "pages":528,
-         "title":"Madame Bovary",
-         "year":1857
       }
    ]
 }
