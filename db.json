@@ -362,17 +362,6 @@
          "pages":528,
          "title":"Madame Bovary",
          "year":1857
-      },
-      {  
-         "id": 34,
-         "author":"Gustave Flaubert",
-         "country":"France",
-         "imageLink":"images/l-education-sentimentale.jpg",
-         "language":"French",
-         "link":"https://en.wikipedia.org/wiki/Sentimental_Education\n",
-         "pages":606,
-         "title":"Sentimental Education",
-         "year":1869
       }
    ]
 }
