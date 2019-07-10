@@ -373,17 +373,6 @@
          "pages":606,
          "title":"Sentimental Education",
          "year":1869
-      },
-      {  
-         "id": 35,
-         "author":"Federico Garc\u00eda Lorca",
-         "country":"Spain",
-         "imageLink":"images/gypsy-ballads.jpg",
-         "language":"Spanish",
-         "link":"https://en.wikipedia.org/wiki/Gypsy_Ballads\n",
-         "pages":218,
-         "title":"Gypsy Ballads",
-         "year":1928
       }
    ]
 }
