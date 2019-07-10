@@ -5,7 +5,6 @@
          "author":"Chinua Achebe",
          "country":"Nigeria",
          "imageLink":"images/things-fall-apart.jpg",
-         "language":"English",
          "link":"https://en.wikipedia.org/wiki/Things_Fall_Apart\n",
          "title":"Things Fall Apart",
          "year":1958
@@ -15,7 +14,6 @@
          "author":"Hans Christian Andersen",
          "country":"Denmark",
          "imageLink":"images/fairy-tales.jpg",
-         "language":"Danish",
          "link":"https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.\n",
          "title":"Fairy tales",
          "year":1836
@@ -25,7 +23,6 @@
          "author":"Dante Alighieri",
          "country":"Italy",
          "imageLink":"images/the-divine-comedy.jpg",
-         "language":"Italian",
          "link":"https://en.wikipedia.org/wiki/Divine_Comedy\n",
          "title":"The Divine Comedy",
          "year":1315
@@ -35,7 +32,6 @@
          "author":"Unknown",
          "country":"Sumer and Akkadian Empire",
          "imageLink":"images/the-epic-of-gilgamesh.jpg",
-         "language":"Akkadian",
          "link":"https://en.wikipedia.org/wiki/Epic_of_Gilgamesh\n",
          "title":"The Epic Of Gilgamesh",
          "year":-1700
@@ -45,7 +41,6 @@
          "author":"Unknown",
          "country":"Achaemenid Empire",
          "imageLink":"images/the-book-of-job.jpg",
-         "language":"Hebrew",
          "link":"https://en.wikipedia.org/wiki/Book_of_Job\n",
          "title":"The Book Of Job",
          "year":-600
@@ -55,7 +50,6 @@
          "author":"Unknown",
          "country":"India/Iran/Iraq/Egypt/Tajikistan",
          "imageLink":"images/one-thousand-and-one-nights.jpg",
-         "language":"Arabic",
          "link":"https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights\n",
          "title":"One Thousand and One Nights",
          "year":1200
@@ -65,7 +59,6 @@
          "author":"Unknown",
          "country":"Iceland",
          "imageLink":"images/njals-saga.jpg",
-         "language":"Old Norse",
          "link":"https://en.wikipedia.org/wiki/Nj%C3%A1ls_saga\n",
          "title":"Nj\u00e1l's Saga",
          "year":1350
@@ -75,7 +68,6 @@
          "author":"Jane Austen",
          "country":"United Kingdom",
          "imageLink":"images/pride-and-prejudice.jpg",
-         "language":"English",
          "link":"https://en.wikipedia.org/wiki/Pride_and_Prejudice\n",
          "title":"Pride and Prejudice",
          "year":1813
@@ -85,7 +77,6 @@
          "author":"Honor\u00e9 de Balzac",
          "country":"France",
          "imageLink":"images/le-pere-goriot.jpg",
-         "language":"French",
          "link":"https://en.wikipedia.org/wiki/Le_P%C3%A8re_Goriot\n",
          "title":"Le P\u00e8re Goriot",
          "year":1835
@@ -95,7 +86,6 @@
          "author":"Samuel Beckett",
          "country":"Republic of Ireland",
          "imageLink":"images/molloy-malone-dies-the-unnamable.jpg",
-         "language":"French, English",
          "link":"https://en.wikipedia.org/wiki/Molloy_(novel)\n",
          "title":"Molloy, Malone Dies, The Unnamable, the trilogy",
          "year":1952
@@ -105,7 +95,6 @@
          "author":"Giovanni Boccaccio",
          "country":"Italy",
          "imageLink":"images/the-decameron.jpg",
-         "language":"Italian",
          "link":"https://en.wikipedia.org/wiki/The_Decameron\n",
          "title":"The Decameron",
          "year":1351
@@ -115,7 +104,6 @@
          "author":"Jorge Luis Borges",
          "country":"Argentina",
          "imageLink":"images/ficciones.jpg",
-         "language":"Spanish",
          "link":"https://en.wikipedia.org/wiki/Ficciones\n",
          "title":"Ficciones",
          "year":1965
@@ -125,7 +113,6 @@
          "author":"Emily Bront\u00eb",
          "country":"United Kingdom",
          "imageLink":"images/wuthering-heights.jpg",
-         "language":"English",
          "link":"https://en.wikipedia.org/wiki/Wuthering_Heights\n",
          "title":"Wuthering Heights",
          "year":1847
@@ -135,7 +122,6 @@
          "author":"Albert Camus",
          "country":"Algeria, French Empire",
          "imageLink":"images/l-etranger.jpg",
-         "language":"French",
          "link":"https://en.wikipedia.org/wiki/The_Stranger_(novel)\n",
          "title":"The Stranger",
          "year":1942
@@ -145,7 +131,6 @@
          "author":"Paul Celan",
          "country":"Romania, France",
          "imageLink":"images/poems-paul-celan.jpg",
-         "language":"German",
          "link":"\n",
          "title":"Poems",
          "year":1952
@@ -155,7 +140,6 @@
          "author":"Louis-Ferdinand C\u00e9line",
          "country":"France",
          "imageLink":"images/voyage-au-bout-de-la-nuit.jpg",
-         "language":"French",
          "link":"https://en.wikipedia.org/wiki/Journey_to_the_End_of_the_Night\n",
          "title":"Journey to the End of the Night",
          "year":1932
@@ -165,7 +149,6 @@
          "author":"Miguel de Cervantes",
          "country":"Spain",
          "imageLink":"images/don-quijote-de-la-mancha.jpg",
-         "language":"Spanish",
          "link":"https://en.wikipedia.org/wiki/Don_Quixote\n",
          "title":"Don Quijote De La Mancha",
          "year":1610
@@ -175,7 +158,6 @@
          "author":"Geoffrey Chaucer",
          "country":"England",
          "imageLink":"images/the-canterbury-tales.jpg",
-         "language":"English",
          "link":"https://en.wikipedia.org/wiki/The_Canterbury_Tales\n",
          "title":"The Canterbury Tales",
          "year":1450
@@ -185,7 +167,6 @@
          "author":"Anton Chekhov",
          "country":"Russia",
          "imageLink":"images/stories-of-anton-chekhov.jpg",
-         "language":"Russian",
          "link":"https://en.wikipedia.org/wiki/List_of_short_stories_by_Anton_Chekhov\n",
          "title":"Stories",
          "year":1886
@@ -195,7 +176,6 @@
          "author":"Joseph Conrad",
          "country":"United Kingdom",
          "imageLink":"images/nostromo.jpg",
-         "language":"English",
          "link":"https://en.wikipedia.org/wiki/Nostromo\n",
          "title":"Nostromo",
          "year":1904
@@ -205,7 +185,6 @@
          "author":"Charles Dickens",
          "country":"United Kingdom",
          "imageLink":"images/great-expectations.jpg",
-         "language":"English",
          "link":"https://en.wikipedia.org/wiki/Great_Expectations\n",
          "title":"Great Expectations",
          "year":1861
@@ -215,7 +194,6 @@
          "author":"Denis Diderot",
          "country":"France",
          "imageLink":"images/jacques-the-fatalist.jpg",
-         "language":"French",
          "link":"https://en.wikipedia.org/wiki/Jacques_the_Fatalist\n",
          "title":"Jacques the Fatalist",
          "year":1796
@@ -225,7 +203,6 @@
          "author":"Alfred D\u00f6blin",
          "country":"Germany",
          "imageLink":"images/berlin-alexanderplatz.jpg",
-         "language":"German",
          "link":"https://en.wikipedia.org/wiki/Berlin_Alexanderplatz\n",
          "title":"Berlin Alexanderplatz",
          "year":1929
@@ -235,7 +212,6 @@
          "author":"Fyodor Dostoevsky",
          "country":"Russia",
          "imageLink":"images/crime-and-punishment.jpg",
-         "language":"Russian",
          "link":"https://en.wikipedia.org/wiki/Crime_and_Punishment\n",
          "title":"Crime and Punishment",
          "year":1866
@@ -245,7 +221,6 @@
          "author":"Fyodor Dostoevsky",
          "country":"Russia",
          "imageLink":"images/the-idiot.jpg",
-         "language":"Russian",
          "link":"https://en.wikipedia.org/wiki/The_Idiot\n",
          "title":"The Idiot",
          "year":1869
@@ -255,7 +230,6 @@
          "author":"Fyodor Dostoevsky",
          "country":"Russia",
          "imageLink":"images/the-possessed.jpg",
-         "language":"Russian",
          "link":"https://en.wikipedia.org/wiki/Demons_(Dostoyevsky_novel)\n",
          "title":"The Possessed",
          "year":1872
@@ -265,7 +239,6 @@
          "author":"Fyodor Dostoevsky",
          "country":"Russia",
          "imageLink":"images/the-brothers-karamazov.jpg",
-         "language":"Russian",
          "link":"https://en.wikipedia.org/wiki/The_Brothers_Karamazov\n",
          "title":"The Brothers Karamazov",
          "year":1880
@@ -275,7 +248,6 @@
          "author":"George Eliot",
          "country":"United Kingdom",
          "imageLink":"images/middlemarch.jpg",
-         "language":"English",
          "link":"https://en.wikipedia.org/wiki/Middlemarch\n",
          "title":"Middlemarch",
          "year":1871
@@ -285,7 +257,6 @@
          "author":"Ralph Ellison",
          "country":"United States",
          "imageLink":"images/invisible-man.jpg",
-         "language":"English",
          "link":"https://en.wikipedia.org/wiki/Invisible_Man\n",
          "title":"Invisible Man",
          "year":1952
@@ -295,7 +266,6 @@
          "author":"Euripides",
          "country":"Greece",
          "imageLink":"images/medea.jpg",
-         "language":"Greek",
          "link":"https://en.wikipedia.org/wiki/Medea_(play)\n",
          "title":"Medea",
          "year":-431
