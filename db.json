@@ -164,6 +164,72 @@
          "pages":320,
          "title":"Poems",
          "year":1952
+      },
+      {  
+         "id": 16,
+         "author":"Louis-Ferdinand C\u00e9line",
+         "country":"France",
+         "imageLink":"images/voyage-au-bout-de-la-nuit.jpg",
+         "language":"French",
+         "link":"https://en.wikipedia.org/wiki/Journey_to_the_End_of_the_Night\n",
+         "pages":505,
+         "title":"Journey to the End of the Night",
+         "year":1932
+      },
+      {  
+         "id": 17,
+         "author":"Miguel de Cervantes",
+         "country":"Spain",
+         "imageLink":"images/don-quijote-de-la-mancha.jpg",
+         "language":"Spanish",
+         "link":"https://en.wikipedia.org/wiki/Don_Quixote\n",
+         "pages":1056,
+         "title":"Don Quijote De La Mancha",
+         "year":1610
+      },
+      {  
+         "id": 18,
+         "author":"Geoffrey Chaucer",
+         "country":"England",
+         "imageLink":"images/the-canterbury-tales.jpg",
+         "language":"English",
+         "link":"https://en.wikipedia.org/wiki/The_Canterbury_Tales\n",
+         "pages":544,
+         "title":"The Canterbury Tales",
+         "year":1450
+      },
+      {  
+         "id": 19,
+         "author":"Anton Chekhov",
+         "country":"Russia",
+         "imageLink":"images/stories-of-anton-chekhov.jpg",
+         "language":"Russian",
+         "link":"https://en.wikipedia.org/wiki/List_of_short_stories_by_Anton_Chekhov\n",
+         "pages":194,
+         "title":"Stories",
+         "year":1886
+      },
+      {  
+         "id": 20,
+         "author":"Joseph Conrad",
+         "country":"United Kingdom",
+         "imageLink":"images/nostromo.jpg",
+         "language":"English",
+         "link":"https://en.wikipedia.org/wiki/Nostromo\n",
+         "pages":320,
+         "title":"Nostromo",
+         "year":1904
+      },
+      {  
+         "id": 21,
+         "author":"Charles Dickens",
+         "country":"United Kingdom",
+         "imageLink":"images/great-expectations.jpg",
+         "language":"English",
+         "link":"https://en.wikipedia.org/wiki/Great_Expectations\n",
+         "pages":194,
+         "title":"Great Expectations",
+         "year":1861
       }
    ]
 }
