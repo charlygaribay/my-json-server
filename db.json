@@ -329,28 +329,6 @@
          "pages":104,
          "title":"Medea",
          "year":-431
-      },
-      {  
-         "id": 31,
-         "author":"William Faulkner",
-         "country":"United States",
-         "imageLink":"images/absalom-absalom.jpg",
-         "language":"English",
-         "link":"https://en.wikipedia.org/wiki/Absalom,_Absalom!\n",
-         "pages":313,
-         "title":"Absalom, Absalom!",
-         "year":1936
-      },
-      {  
-         "id": 32,
-         "author":"William Faulkner",
-         "country":"United States",
-         "imageLink":"images/the-sound-and-the-fury.jpg",
-         "language":"English",
-         "link":"https://en.wikipedia.org/wiki/The_Sound_and_the_Fury\n",
-         "pages":326,
-         "title":"The Sound and the Fury",
-         "year":1929
       }
    ]
 }
