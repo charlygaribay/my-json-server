@@ -1,6 +1,7 @@
 {  
    "books":[  
       {  
+         "id": 1,
          "author":"Chinua Achebe",
          "country":"Nigeria",
          "imageLink":"images/things-fall-apart.jpg",
@@ -11,6 +12,7 @@
          "year":1958
       },
       {  
+         "id": 2,
          "author":"Hans Christian Andersen",
          "country":"Denmark",
          "imageLink":"images/fairy-tales.jpg",
@@ -21,6 +23,7 @@
          "year":1836
       },
       {  
+         "id": 3,
          "author":"Dante Alighieri",
          "country":"Italy",
          "imageLink":"images/the-divine-comedy.jpg",
@@ -31,6 +34,7 @@
          "year":1315
       },
       {  
+         "id": 4,
          "author":"Unknown",
          "country":"Sumer and Akkadian Empire",
          "imageLink":"images/the-epic-of-gilgamesh.jpg",
@@ -41,6 +45,7 @@
          "year":-1700
       },
       {  
+         "id": 5,
          "author":"Unknown",
          "country":"Achaemenid Empire",
          "imageLink":"images/the-book-of-job.jpg",
@@ -51,6 +56,7 @@
          "year":-600
       },
       {  
+         "id": 6,
          "author":"Unknown",
          "country":"India/Iran/Iraq/Egypt/Tajikistan",
          "imageLink":"images/one-thousand-and-one-nights.jpg",
@@ -61,6 +67,7 @@
          "year":1200
       },
       {  
+         "id": 7,
          "author":"Unknown",
          "country":"Iceland",
          "imageLink":"images/njals-saga.jpg",
@@ -71,6 +78,7 @@
          "year":1350
       },
       {  
+         "id": 8,
          "author":"Jane Austen",
          "country":"United Kingdom",
          "imageLink":"images/pride-and-prejudice.jpg",
@@ -81,6 +89,7 @@
          "year":1813
       },
       {  
+         "id": 9,
          "author":"Honor\u00e9 de Balzac",
          "country":"France",
          "imageLink":"images/le-pere-goriot.jpg",
@@ -91,6 +100,7 @@
          "year":1835
       },
       {  
+         "id": 10,
          "author":"Samuel Beckett",
          "country":"Republic of Ireland",
          "imageLink":"images/molloy-malone-dies-the-unnamable.jpg",
@@ -98,6 +108,61 @@
          "link":"https://en.wikipedia.org/wiki/Molloy_(novel)\n",
          "pages":256,
          "title":"Molloy, Malone Dies, The Unnamable, the trilogy",
+         "year":1952
+      },
+      {  
+         "id": 11,
+         "author":"Giovanni Boccaccio",
+         "country":"Italy",
+         "imageLink":"images/the-decameron.jpg",
+         "language":"Italian",
+         "link":"https://en.wikipedia.org/wiki/The_Decameron\n",
+         "pages":1024,
+         "title":"The Decameron",
+         "year":1351
+      },
+      {  
+         "id": 12,
+         "author":"Jorge Luis Borges",
+         "country":"Argentina",
+         "imageLink":"images/ficciones.jpg",
+         "language":"Spanish",
+         "link":"https://en.wikipedia.org/wiki/Ficciones\n",
+         "pages":224,
+         "title":"Ficciones",
+         "year":1965
+      },
+      {  
+         "id": 13,
+         "author":"Emily Bront\u00eb",
+         "country":"United Kingdom",
+         "imageLink":"images/wuthering-heights.jpg",
+         "language":"English",
+         "link":"https://en.wikipedia.org/wiki/Wuthering_Heights\n",
+         "pages":342,
+         "title":"Wuthering Heights",
+         "year":1847
+      },
+      {  
+         "id": 14,
+         "author":"Albert Camus",
+         "country":"Algeria, French Empire",
+         "imageLink":"images/l-etranger.jpg",
+         "language":"French",
+         "link":"https://en.wikipedia.org/wiki/The_Stranger_(novel)\n",
+         "pages":185,
+         "title":"The Stranger",
+         "year":1942
+      },
+      {  
+         "id": 15,
+         "author":"Paul Celan",
+         "country":"Romania, France",
+         "imageLink":"images/poems-paul-celan.jpg",
+         "language":"German",
+         "link":"\n",
+         "pages":320,
+         "title":"Poems",
          "year":1952
       }
    ]
