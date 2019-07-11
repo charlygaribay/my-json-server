@@ -1,154 +1,104 @@
 {  
    "books":[  
       {  
-         "id":1,
-         "title":"Unlocking Android",
-         "isbn":"1933988673",
-         "publishedDate":{  
-            "$date":"2009-04-01T00:00:00.000-0700"
-         },
-         "thumbnailUrl":"https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ableson.jpg",
-         "shortDescription":"Unlocking Android: A Developer's Guide provides concise, hands-on instruction for the Android operating system and development tools. This book teaches important architectural concepts in a straightforward writing style and builds on this with practical and useful examples throughout.",
-         "status":"PUBLISH",
-         "authors":[  
-            "W. Frank Ableson",
-            "Charlie Collins",
-            "Robi Sen"
-         ],
-         "categories":[  
-            "Open Source",
-            "Mobile"
-         ]
+         "author":"Chinua Achebe",
+         "country":"Nigeria",
+         "imageLink":"https://images-na.ssl-images-amazon.com/images/I/61l%2BVmohEOL._SX322_BO1,204,203,200_.jpg",
+         "language":"English",
+         "link":"https://en.wikipedia.org/wiki/Things_Fall_Apart\n",
+         "pages":209,
+         "title":"Things Fall Apart",
+         "year":1958
       },
       {  
-         "id":2,
-         "title":"Android in Action, Second Edition",
-         "isbn":"1935182722",
-         "publishedDate":{  
-            "$date":"2011-01-14T00:00:00.000-0800"
-         },
-         "thumbnailUrl":"https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ableson2.jpg",
-         "shortDescription":"Android in Action, Second Edition is a comprehensive tutorial for Android developers. Taking you far beyond \"Hello Android,\" this fast-paced book puts you in the driver's seat as you learn important architectural concepts and implementation strategies. You'll master the SDK, build WebKit apps using HTML 5, and even learn to extend or replace Android's built-in features by building useful and intriguing examples. ",
-         "status":"PUBLISH",
-         "authors":[  
-            "W. Frank Ableson",
-            "Robi Sen"
-         ],
-         "categories":[  
-            "Java"
-         ]
-      }
-      {  
-         "id":4,
-         "title":"Flex 3 in Action",
-         "isbn":"1933988746",
-         "publishedDate":{  
-            "$date":"2009-02-02T00:00:00.000-0800"
-         },
-         "thumbnailUrl":"https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ahmed.jpg",
-         "shortDescription":"New web applications require engaging user-friendly interfaces   and the cooler, the better. With Flex 3, web developers at any skill level can create high-quality, effective, and interactive Rich Internet Applications (RIAs) quickly and easily. Flex removes the complexity barrier from RIA development by offering sophisticated tools and a straightforward programming language so you can focus on what you want to do instead of how to do it. And now that the major components of Flex are free and open-source, the cost barrier is gone, as well!    Flex 3 in Action is an easy-to-follow, hands-on Flex tutorial. Chock-full of examples, this book goes beyond feature coverage and helps you put Flex to work in real day-to-day tasks. You'll quickly master the Flex API and learn to apply the techniques that make your Flex applications stand out from the crowd.    Interesting themes, styles, and skins  It's in there.  Working with databases  You got it.  Interactive forms and validation  You bet.  Charting techniques to help you visualize data  Bam!  The expert authors of Flex 3 in Action have one goal   to help you get down to business with Flex 3. Fast.    Many Flex books are overwhelming to new users   focusing on the complexities of the language and the super-specialized subjects in the Flex eco-system; Flex 3 in Action filters out the noise and dives into the core topics you need every day. Using numerous easy-to-understand examples, Flex 3 in Action gives you a strong foundation that you can build on as the complexity of your projects increases.",
-         "status":"PUBLISH",
-         "authors":[  
-            "Tariq Ahmed with Jon Hirschi",
-            "Faisal Abid"
-         ],
-         "categories":[  
-            "Internet"
-         ]
+         "author":"Hans Christian Andersen",
+         "country":"Denmark",
+         "imageLink":"https://images-na.ssl-images-amazon.com/images/I/51DxdbRr1aL._SY498_BO1,204,203,200_.jpg",
+         "language":"Danish",
+         "link":"https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.\n",
+         "pages":784,
+         "title":"Fairy tales",
+         "year":1836
       },
       {  
-         "id":5,
-         "title":"Flex 4 in Action",
-         "isbn":"1935182420",
-         "publishedDate":{  
-            "$date":"2010-11-15T00:00:00.000-0800"
-         },
-         "thumbnailUrl":"https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ahmed2.jpg",
-         "shortDescription":"Using Flex, you can create high-quality, effective, and interactive Rich Internet Applications (RIAs) quickly and easily. Flex removes the complexity barrier from RIA development by offering sophisticated tools and a straightforward programming language so you can focus on what you want to do instead of how to do it. And the new features added in Flex 4 give you an even wider range of options!    Flex 4 in Action is an easy-to-follow, hands-on Flex tutorial that goes beyond feature coverage and helps you put Flex to work in real day-to-day tasks. You'll quickly master the Flex API and learn to apply the techniques that make your Flex applications stand out from the crowd.    The expert authors of Flex 4 in Action have one goal-to help you get down to business with Flex. Fast. Flex 4 in Action filters out the noise and dives into the core topics you need every day. Using numerous easy-to-understand examples, Flex 4 in Action gives you a strong foundation that you can build on as the complexity of your projects increases.    Interesting themes, styles, and skins  It's in there.  Working with databases  You got it.  Interactive forms and validation  You bet.  Charting techniques to help you visualize data  Bam!  And you'll get full coverage of these great Flex 4 upgrades:  Next generation Spark components-New buttons, form inputs, navigation controls and other visual components replace the Flex 3 \"Halo\" versions. Spark components are easier to customize, which makes skinning and theme design much faster  A new \"network monitor\" allows you to see the data communications between a Flex application and a backend server, which helps when trying to debug applications that are communicating to another system/service  Numerous productivity boosting features that speed up the process of creating applications  A faster compiler to take your human-written source code and convert it into a machine-readable format  Built-in support for unit testing allows you to improve the quality of your software, and reduce the time spent in testing",
-         "status":"PUBLISH",
-         "authors":[  
-            "Tariq Ahmed",
-            "Dan Orlando",
-            "John C. Bland II",
-            "Joel Hooks"
-         ],
-         "categories":[  
-            "Internet"
-         ]
+         "author":"Dante Alighieri",
+         "country":"Italy",
+         "imageLink":"https://images-na.ssl-images-amazon.com/images/I/61Ml8RHqxrL._SX330_BO1,204,203,200_.jpg",
+         "language":"Italian",
+         "link":"https://en.wikipedia.org/wiki/Divine_Comedy\n",
+         "pages":928,
+         "title":"The Divine Comedy",
+         "year":1315
       },
       {  
-         "id":7,
-         "title":"Zend Framework in Action",
-         "isbn":"1933988320",
-         "publishedDate":{  
-            "$date":"2008-12-01T00:00:00.000-0800"
-         },
-         "thumbnailUrl":"https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/allen.jpg",
-         "shortDescription":"Zend Framework in Action is a comprehensive tutorial that shows how to use the Zend Framework to create web-based applications and web services. This book takes you on an over-the-shoulder tour of the components of the Zend Framework as you build a high quality, real-world web application.",
-         "status":"PUBLISH",
-         "authors":[  
-            "Rob Allen",
-            "Nick Lo",
-            "Steven Brown"
-         ],
-         "categories":[  
-            "Web Development"
-         ]
+         "author":"Unknown",
+         "country":"Sumer and Akkadian Empire",
+         "imageLink":"https://images-na.ssl-images-amazon.com/images/I/51A0O%2B10zDL._SX314_BO1,204,203,200_.jpg",
+         "language":"Akkadian",
+         "link":"https://en.wikipedia.org/wiki/Epic_of_Gilgamesh\n",
+         "pages":160,
+         "title":"The Epic Of Gilgamesh",
+         "year":-1700
       },
       {  
-         "id":8,
-         "title":"Flex on Java",
-         "isbn":"1933988797",
-         "publishedDate":{  
-            "$date":"2010-10-15T00:00:00.000-0700"
-         },
-         "thumbnailUrl":"https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/allmon.jpg",
-         "shortDescription":"   A beautifully written book that is a must have for every Java Developer.       Ashish Kulkarni, Technical Director, E-Business Software Solutions Ltd.",
-         "status":"PUBLISH",
-         "authors":[  
-            "Bernerd Allmon",
-            "Jeremy Anderson"
-         ],
-         "categories":[  
-            "Internet"
-         ]
+         "author":"Unknown",
+         "country":"Achaemenid Empire",
+         "imageLink":"https://images-na.ssl-images-amazon.com/images/I/51BNAD8p6pL._SX303_BO1,204,203,200_.jpg",
+         "language":"Hebrew",
+         "link":"https://en.wikipedia.org/wiki/Book_of_Job\n",
+         "pages":176,
+         "title":"The Book Of Job",
+         "year":-600
       },
       {  
-         "id":9,
-         "title":"Griffon in Action",
-         "isbn":"1935182234",
-         "publishedDate":{  
-            "$date":"2012-06-04T00:00:00.000-0700"
-         },
-         "thumbnailUrl":"https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/almiray.jpg",
-         "shortDescription":"Griffon in Action is a comprehensive tutorial written for Java developers who want a more productive approach to UI development. In this book, you'll immediately dive into Griffon. After a Griffon orientation and a quick Groovy tutorial, you'll start building examples that explore Griffon's high productivity approach to Swing development. One of the troublesome parts of Swing development is the amount of Java code that is required to get a simple application off the ground.",
-         "status":"PUBLISH",
-         "authors":[  
-            "Andres Almiray",
-            "Danno Ferrin",
-            "",
-            "James Shingler"
-         ],
-         "categories":[  
-            "Java"
-         ]
+         "author":"Unknown",
+         "country":"India/Iran/Iraq/Egypt/Tajikistan",
+         "imageLink":"https://images-na.ssl-images-amazon.com/images/I/518Nb9heqmL._SX323_BO1,204,203,200_.jpg",
+         "language":"Arabic",
+         "link":"https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights\n",
+         "pages":288,
+         "title":"One Thousand and One Nights",
+         "year":1200
       },
       {  
-         "id":10,
-         "title":"OSGi in Depth",
-         "isbn":"193518217X",
-         "publishedDate":{  
-            "$date":"2011-12-12T00:00:00.000-0800"
-         },
-         "thumbnailUrl":"https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/alves.jpg",
-         "shortDescription":"Enterprise OSGi shows a Java developer how to develop to the OSGi Service Platform Enterprise specification, an emerging Java-based technology for developing modular enterprise applications. Enterprise OSGi addresses several shortcomings of existing enterprise platforms, such as allowing the creation of better maintainable and extensible applications, and provide a simpler, easier-to-use, light-weight solution to enterprise software development.",
-         "status":"PUBLISH",
-         "authors":[  
-            "Alexandre de Castro Alves"
-         ],
-         "categories":[  
-            "Java"
-         ]
+         "author":"Unknown",
+         "country":"Iceland",
+         "imageLink":"https://images-na.ssl-images-amazon.com/images/I/51Qo4Nt2j3L._SX320_BO1,204,203,200_.jpg",
+         "language":"Old Norse",
+         "link":"https://en.wikipedia.org/wiki/Nj%C3%A1ls_saga\n",
+         "pages":384,
+         "title":"Njal's Saga",
+         "year":1350
+      },
+      {  
+         "author":"Jane Austen",
+         "country":"United Kingdom",
+         "imageLink":"https://images-na.ssl-images-amazon.com/images/I/41k29Fict8L._SX325_BO1,204,203,200_.jpg",
+         "language":"English",
+         "link":"https://en.wikipedia.org/wiki/Pride_and_Prejudice\n",
+         "pages":226,
+         "title":"Pride and Prejudice",
+         "year":1813
+      },
+      {  
+         "author":"Honor\u00e9 de Balzac",
+         "country":"France",
+         "imageLink":"https://images-na.ssl-images-amazon.com/images/I/51I9WlXgjtL._SX331_BO1,204,203,200_.jpg",
+         "language":"French",
+         "link":"https://en.wikipedia.org/wiki/Le_P%C3%A8re_Goriot\n",
+         "pages":443,
+         "title":"Le Pere Goriot",
+         "year":1835
+      },
+      {  
+         "author":"Samuel Beckett",
+         "country":"Republic of Ireland",
+         "imageLink":"https://images-na.ssl-images-amazon.com/images/I/41GI1CHt3wL._SX331_BO1,204,203,200_.jpg",
+         "language":"French, English",
+         "link":"https://en.wikipedia.org/wiki/Molloy_(novel)\n",
+         "pages":256,
+         "title":"Molloy, Malone Dies, The Unnamable, the trilogy",
+         "year":1952
       }
    ]
 }
